@@ -1,1 +1,4 @@
-console.log("load js outside");
+
+function a875x() {
+  console.log("load js outside");
+}
